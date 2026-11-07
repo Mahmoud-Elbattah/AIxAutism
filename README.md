@@ -6,6 +6,6 @@
 - **2026:** Imperial College London, London, United Kingdom
 - **2025:** Jesus College, University of Cambridge, Cambridge, United Kingdom
 
-**Website:** [AIxAutism](https://Mahmoud-Elbattah.github.io/aixautism/)
+**Website:** [AIxAutism](https://mahmoud-elbattah.github.io/AIxAutism/)
 
 **Contact:** [mahmoud.elbattah@uwe.ac.uk](mailto:mahmoud.elbattah@uwe.ac.uk)
